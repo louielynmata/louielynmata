@@ -1,5 +1,6 @@
 # Hi, I'm Louielyn Mata 👋  
-**Aspiring Full-Stack Developer & Software Engineer**  
+**Aspiring Full-Stack Developer & Software Engineer** 
+With a holistic specialty in design, code, and business strategy, I focus on creating user experience–centered solutions and driving digital transformation.
 Join me in my journey from **#DesignToDev** 🎨💻
 
 🎓 **Software Development Student** @ SAIT  
@@ -12,12 +13,12 @@ I’m a **creative, competent, versatile, and award-winning designer** with a pr
 I aim to bring the same — if not greater — level of excellence to the **Software Development Life Cycle (SDLC)**.  
 I offer not just technical skills, but a creative and analytical edge, with a flair for working both **hard and smart**.  
 
-Above all, I love **learning**, **building**, and **contributing** — bringing passion to everything I do.
+Above all, I love continuous **learning**, **building**, and **contributing** — bringing passion to everything I do.
 
 ---
 
 ### 🧩 Bridging Design, Code & Strategy  
-With a foundation in software, project management, UI/UX, and multimedia design, I aim to **bridge the gap between innovation, functionality, and user experience**.  
+With a foundation in software, project management, UI/UX, creative direction, and multimedia design, I aim to **bridge the gap between innovation, functionality, and user experience**.  
 
 My goal is to maximize this holistic perspective across the SDLC — as a future **Full Stack Developer** and **Systems Designer**.
 
@@ -32,7 +33,9 @@ My goal is to maximize this holistic perspective across the SDLC — as a future
 - 🌐 **Web**: Django, Bootstrap, HTML/CSS, Blazor (.NET MAUI), REST APIs, LAMP, WordPress  
 - 🛢 **Databases**: MySQL, MariaDB, PostgreSQL
 - 🖼️ **Product Design**: Figma, Adobe Creative Suite
-- 🚀 **Learning**: React, Node.js, AWS
+- 🧩 **Tools and Services**: Git, Github, Docker, Notion, JIRA, Datadog, Postman, SonarQube
+- 🔧 **AI Tools**: OpenAI ChatGPT, Claude Code, Cursor Agents
+- 🚀 **Learning**: React, Node.js, AWS, Docker
 
 ---
 
