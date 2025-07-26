@@ -42,9 +42,8 @@ My goal is to maximize this holistic perspective across the SDLC — as a future
 
 ### 📂 Portfolio Highlights  
 - 💊 **Clinic Management System**  
-- 🌍 Multiple **WordPress Websites**
-Design to Dev - Arts and Culture School in SG, Talent Agency, Company Websites
-UI/UX - Building All-In-One Web App, Events Management
+- 🌍 Multiple **WordPress Websites** (Design to Dev - Arts and Culture School in SG, Talent Agency, Company Websites)
+- 🖼️ Product Design (UI/UX) - Building All-In-One Web App, Events Management
 
 ---
 
