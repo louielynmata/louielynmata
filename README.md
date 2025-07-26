@@ -30,7 +30,8 @@ My goal is to maximize this holistic perspective across the SDLC — as a future
 ### 🛠 Tech Stack  
 - 💻 **Languages**: Python, JavaScript  
 - 🌐 **Web**: Django, Bootstrap, HTML/CSS, Blazor (.NET MAUI), REST APIs, LAMP, WordPress  
-- 🛢 **Databases**: MySQL, MariaDB, PostgreSQL  
+- 🛢 **Databases**: MySQL, MariaDB, PostgreSQL
+- 🖼️ **Product Design**: Figma, Adobe Creative Suite
 - 🚀 **Learning**: React, Node.js, AWS
 
 ---
