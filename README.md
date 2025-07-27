@@ -20,7 +20,7 @@ Above all, I love continuous **learning**, **building**, and **contributing** �
 ### 🧩 Bridging Design, Code & Strategy  
 With a foundation in software, project management, UI/UX, creative direction, and multimedia design, I aim to **bridge the gap between innovation, functionality, and user experience**.  
 
-My goal is to maximize this holistic perspective across the SDLC — as a future **Full Stack Developer** and **Systems Designer**.
+My goal is to maximize this holistic perspective across the SDLC — as a future **Full Stack Developer**, **Software Engineer**, and **Systems Designer**.
 
 ---
 
