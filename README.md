@@ -10,7 +10,7 @@ Join me in my journey from **#DesignToDev** 🎨💻
 
 I’m a **creative, competent, versatile, and award-winning designer** with a proven track record of high-impact work for renowned international clients.
 
-I aim to bring the same — if not greater — level of excellence to the **Software Development Life Cycle (SDLC)**.  
+I aim to bring the same, if not greater, level of excellence to the **Software Development Life Cycle (SDLC)**.  
 I offer not just technical skills, but a creative and analytical edge, with a flair for working both **hard and smart**.  
 
 Above all, I love continuous **learning**, **building**, and **contributing** — bringing passion to everything I do.
