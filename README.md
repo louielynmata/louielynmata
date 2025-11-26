@@ -11,7 +11,7 @@ Join me in my journey from **#DesignToDev** 🎨💻
 
 I’m a **creative, competent, versatile, and award-winning professional** with a proven track record of high-impact work for renowned global clients.  
 
-Building on my background in design and marketing, I’m transitioning into **full-stack development, product, and software engineering**—bringing not just technical skills, but also a **creative and analytical edge**, with a flair for working both **hard and smart**.  
+Building on my background in design and marketing, I’m transitioning into **full-stack development, product, and software engineering**, bringing not just technical skills, but also a **creative and analytical edge**, with a flair for working both **hard and smart**.  
 
 I aim to bring the same, if not greater, level of excellence to the **Software Development Life Cycle (SDLC)**.  
 
@@ -47,6 +47,7 @@ With roots in **software, UI/UX, project management, and creative direction**, I
   <img src="https://img.shields.io/badge/NestJS-0A0A0A?style=flat-square&logo=nestjs&logoColor=E0234E"/>
   <img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React_Native-0A0A0A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Expo-0A0A0A?style=flat-square&logo=expo&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Astro-0A0A0A?style=flat-square&logo=astro&logoColor=FF5D01"/>
   <img src="https://img.shields.io/badge/OAuth-0A0A0A?style=flat-square&logo=oauth&logoColor=4285F4"/>
@@ -125,16 +126,23 @@ With roots in **software, UI/UX, project management, and creative direction**, I
 ---
 
 ## 📂 Portfolio Highlights  
-- 💊 **Clinic Management System** (Blazor + MariaDB)  
-- 🌍 Multiple **WordPress Websites** – Arts School (SG), Talent Agency, Corporate Sites  
-- 🖼️ **UI/UX Product Design** – Events & Business Tools  
+- 🧩 **Software Development Capstone Project** (NestJS + React + Railway)  
+- 📱 **Social Media App** (Django + React Native + AWS)  
+- 🏥 **Clinic Management System – Update** (React + NextJS + Firebase + Firestore)  
+- 🩺 **Clinic Management System** (Blazor + pgAdmin)  
+- 🌐 **WordPress Websites** – Arts School (SG), Talent Agency, Corporate Sites  
+- 🎨 **UI/UX Product Design** – Events & Business Tools  
 
 ---
 
 ## 🤝 Let’s Connect  
 <p align="left">
-  <a href="https://www.linkedin.com/in/louielynmata"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/louielynmata"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/louielynmata">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/louielynmata">
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=FFFFFF"/>
+  </a>
 </p>
 
 ---
