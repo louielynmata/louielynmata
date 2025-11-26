@@ -29,7 +29,7 @@ With roots in **software, UI/UX, project management, and creative direction**, I
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack and Tools
 
 ### Languages  
 <p align="left">
