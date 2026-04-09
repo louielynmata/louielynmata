@@ -25,7 +25,7 @@ With roots in **software, UI/UX, project management, and creative direction**, I
 ---
 
 💡 **OPEN FOR WORK** – Freelance, Part-Time, or upcoming Software Developer Roles  
-✨ Portfolio available upon request (NDA required)  
+✨ Portfolio available upon request
 
 ---
 
