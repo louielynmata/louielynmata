@@ -85,6 +85,7 @@ DevOps & Cloud
   <img src="https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=2496ED"/>
   <img src="https://img.shields.io/badge/Nginx-0A0A0A?style=flat-square&logo=nginx&logoColor=009639"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-0A0A0A?style=flat-square&logo=githubactions&logoColor=2088FF"/>
+  <img src="https://img.shields.io/badge/Azure-0A0A0A?style=flat-square&logo=microsoftazure&logoColor=0078D4"/>
   <img src="https://img.shields.io/badge/AWS-0A0A0A?style=flat-square&logo=amazonaws&logoColor=F7B500"/>
   <img src="https://img.shields.io/badge/Railway-0A0A0A?style=flat-square&logo=railway&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Linux-0A0A0A?style=flat-square&logo=linux&logoColor=FCC624"/>
