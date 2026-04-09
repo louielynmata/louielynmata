@@ -120,6 +120,7 @@ Design & Product
 AI-Assisted Development  
 <p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-0A0A0A?style=flat-square&logo=openai&logoColor=74aa9c"/>
+  <img src="https://img.shields.io/badge/OpenAI_Codex-0A0A0A?style=flat-square&logo=openai&logoColor=74aa9c"/>
   <img src="https://img.shields.io/badge/GitHub_Copilot-0A0A0A?style=flat-square&logo=githubcopilot&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Claude-0A0A0A?style=flat-square&logo=anthropic&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Cursor-0A0A0A?style=flat-square&logo=googlechrome&logoColor=4285F4"/>
