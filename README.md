@@ -117,7 +117,7 @@ Design & Product
   <img src="https://img.shields.io/badge/Adobe_Creative_Suite-0A0A0A?style=flat-square&logo=adobecreativecloud&logoColor=FF0000"/>
 </p>
 
-AI-Assisted Development  
+AI Tools
 <p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-0A0A0A?style=flat-square&logo=openai&logoColor=74aa9c"/>
   <img src="https://img.shields.io/badge/OpenAI_Codex-0A0A0A?style=flat-square&logo=openai&logoColor=74aa9c"/>
