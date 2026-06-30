@@ -4,9 +4,9 @@
 With a holistic specialty in **design, code, UX, and business strategy**, I create **user-centric solutions** and drive digital transformation.  
 Join me in my journey from **#DesignToDev** 🎨💻  
 
-🎓 **Software Development Student** @ SAIT  
+🎓 **Software Development Graduate** @ SAIT  
 💼 **Former Software Engineering Intern** @ Newton.co  
-🎨 **Former Creative Director & Multimedia Designer** (Including Product – UI/UX)  
+🎨 **Creative Director & Multimedia Designer** (Including Product – UI/UX)  
 📍 **Calgary, Canada** | From 🇵🇭  
 
 I’m a **creative, competent, versatile, and award-winning professional** with a proven track record of high-impact work for renowned global clients.  
