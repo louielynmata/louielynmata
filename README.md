@@ -1,5 +1,5 @@
 # Hi, I’m Louielyn Mata 👋  
-**Emerging Product & Software Engineer | #DesignToDev | Building User-Centric Products with the Union of Design & Code**  
+**Product Design & Software Engineer | #DesignToDev | Building User-Centric Products with the Union of Design & Code**  
 
 With a holistic specialty in **design, code, UX, and business strategy**, I create **user-centric solutions** and drive digital transformation.  
 Join me in my journey from **#DesignToDev** 🎨💻  
@@ -69,7 +69,6 @@ Databases & Data
   <img src="https://img.shields.io/badge/Redis-0A0A0A?style=flat-square&logo=redis&logoColor=DC382D"/>
   <img src="https://img.shields.io/badge/Firestore-0A0A0A?style=flat-square&logo=firebase&logoColor=FFCA28"/>
   <img src="https://img.shields.io/badge/Prisma-0A0A0A?style=flat-square&logo=prisma&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Redis-0A0A0A?style=flat-square&logo=redis&logoColor=DC382D"/>
 </p>
 
 Testing  
